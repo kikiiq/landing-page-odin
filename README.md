@@ -1,1 +1,1 @@
-# Landing-Page-Odin
+# landing-page-odin
